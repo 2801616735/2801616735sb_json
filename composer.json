@@ -1,0 +1,19 @@
+{
+    "name": "2801616735sb/json",
+    "description": "composer json package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "2801616735",
+            "email": "2801616735@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+	    "Json\\": "src/" 
+	}
+    },
+    "minimum-stability": "dev"
+}
